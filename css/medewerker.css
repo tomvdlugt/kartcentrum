@@ -1,0 +1,22 @@
+input{
+    font-family: inherit;
+    padding:5px;
+} 
+
+p{
+    padding-left: 50px;
+}
+
+td  img{
+    width:20px;
+}
+
+input[type=time],input[type=date]{
+    width:165px; 
+    text-align:center;   
+}
+select{
+    height:30px;
+    width:180px;
+}
+
